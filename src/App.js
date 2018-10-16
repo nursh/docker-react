@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Playing with fire
+            Playing with fire in the feature branch
           </a>
         </header>
       </div>
